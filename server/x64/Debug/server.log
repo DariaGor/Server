@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\bolsh\desktop\server\server\main.cpp(23): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\bolsh\desktop\server\server\main.cpp(80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\bolsh\desktop\server\server\main.cpp(100): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+c:\users\bolsh\desktop\server\server\main.cpp(135): warning C4312: приведение типов: преобразование из "int" в "PVOID" большего размера
+c:\users\bolsh\desktop\server\server\main.cpp(103): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "1" имеет тип "std::size_t"
+  c:\users\bolsh\desktop\server\server\main.cpp(103): note: рекомендуется использовать "%zd" в строке форматирования
+  server.vcxproj -> C:\Users\bolsh\Desktop\server\x64\Debug\server.exe
+  server.vcxproj -> C:\Users\bolsh\Desktop\server\x64\Debug\server.pdb (Full PDB)
